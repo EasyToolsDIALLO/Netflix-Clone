@@ -46,3 +46,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ##
+![netflix](https://user-images.githubusercontent.com/97252877/204308990-2d80f6c0-e05c-455b-a176-b11339138ded.PNG)
+![resto](https://user-images.githubusercontent.com/97252877/204309017-fa4d1903-18eb-47c1-9e68-a6faede000eb.jpg)
+![social_media](https://user-images.githubusercontent.com/97252877/204309025-6bb047b1-9a93-4819-83d9-c3eaa0c8865e.PNG)
+![drapeau](https://user-images.githubusercontent.com/97252877/204309066-2a3de209-6090-414a-a8a8-9171f453fe2a.PNG)
+![figma](https://user-images.githubusercontent.com/97252877/204309085-3632be23-b1f3-4c24-b0f7-17b2cac63753.PNG)
+![gouvernement](https://user-images.githubusercontent.com/97252877/204309090-1a258974-0181-4854-8929-82938fedaa3d.jpg)
+![mobile_media](https://user-images.githubusercontent.com/97252877/204309101-2720a7ac-9253-4c2b-a23e-d8b4d1f51f19.jpg)
