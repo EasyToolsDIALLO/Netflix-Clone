@@ -1,4 +1,4 @@
-#We have done 60% of the work we want to do
+# We have done 60% of the work we want to do
 
 # Getting Started with Create React App and Redux
 
