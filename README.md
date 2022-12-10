@@ -1,3 +1,7 @@
+# We have done 60% of the work we want to do
+
+### This website is buiding with reactJS in frontend and firebase in backend
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
@@ -44,3 +48,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+##
+![netflix](https://user-images.githubusercontent.com/97252877/204308990-2d80f6c0-e05c-455b-a176-b11339138ded.PNG)
+
