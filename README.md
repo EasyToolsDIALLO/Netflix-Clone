@@ -1,4 +1,4 @@
-# We have done 60% of the work we want to do
+
 
 ### This website is buiding with reactJS in frontend and firebase in backend
 
